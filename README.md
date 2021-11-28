@@ -1,0 +1,2 @@
+# Titanic_kaggle_competition
+Titanic classification problem
