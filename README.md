@@ -1,2 +1,2 @@
 # kaggle_competition
-Kaggle problems sloution templates
+Kaggle problems solution templates
