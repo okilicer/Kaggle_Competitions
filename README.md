@@ -1,2 +1,2 @@
-# Titanic_kaggle_competition
-Titanic classification problem
+# kaggle_competition
+Kaggle problems sloution templates
